@@ -3,7 +3,7 @@ package linear;
 import java.util.Arrays;
 import java.util.Scanner;
 
-class radixSortNegativos {
+class RadixSortNegativos {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
